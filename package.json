@@ -7,12 +7,12 @@
     "vite",
     "template"
   ],
-  "author": "Oleksandr Kropivnyi <kropivnyy@gmail.com>",
-  "homepage": "https://Kropivnyy.github.io/vite-project-template",
+  "author": "Kirill Korotkiy",
+  "homepage": "https://Kropivnyy.github.io/file-downloader",
   "license": "ISC",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-project-template/",
+    "build": "vite build --base=/file-downloader/",
     "preview": "vite preview"
   },
   "devDependencies": {
